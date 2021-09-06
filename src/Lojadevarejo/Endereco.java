@@ -1,0 +1,15 @@
+package Lojadevarejo;
+
+public class Endereco {
+
+	public String rua;
+    public String numero;
+    public String baiirro;
+    public String cidade;
+    public String estado;
+    public String cep;
+	public String bairro;
+    
+   
+    
+}
